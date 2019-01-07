@@ -1,0 +1,45 @@
+{
+  "rotationOffset": 10,
+  "uri": "bonarka-02.jpg",
+  "sceneId": "bonarka2",
+  "infoPanels": [{
+    "title": "Szary Dom",
+    "location": {
+      "left": 0,
+      "top": 200
+    },
+    "icon": "loupe.png",
+    "sections": [{
+            "text": "Ta kamienica została zbudowana przed wojną i była jednym z najważniejszych budynków obozu - mieszkali tu \"wybitni\" essesmani: Hujar, Zdrojewski, Landsdorfer, Ekert, Glaser... a w piwnicy mieściło się więzienie - i to nie zwykłe więzienie, tylko prawdziwe podziemne kazamaty tortur"
+    }
+      ]
+  }],
+  "doors": [{
+      "sceneId": "bonarka1",
+      "preview": "bimg.jpg",
+      "title": "Część administracyjno wojskowa",
+      "location": {
+        "left": 3750,
+        "top": 200
+      }
+    },
+    {
+      "sceneId": "bonarka3",
+      "preview": "bimg.jpg",
+      "title": "Widok z góry",
+      "location": {
+        "left": 2650,
+        "top": 100
+      }
+    },
+    {
+      "sceneId": "bonarka5",
+      "preview": "bimg.jpg",
+      "title": "Skrzyżowanie",
+      "location": {
+        "left": 3050,
+        "top": 200
+      }
+    }
+  ]
+}
